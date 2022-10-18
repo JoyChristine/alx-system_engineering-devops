@@ -1,2 +1,1 @@
-rmdir /tmp/holberton
- firstdiredeletion
+#!/bin/bash\n rmdir /tmp/my_first_directory
