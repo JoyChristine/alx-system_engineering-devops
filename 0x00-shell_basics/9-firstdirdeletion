@@ -1,1 +1,1 @@
-#!/bin/bash \n rmdir /tmp/my_first_directory
+#!/bin/bash\nrmdir /tmp/my_first_directory\n
